@@ -46,8 +46,8 @@ Projeto de autenticação utilizando **Next.js** e **NextAuth.js**, com foco em 
 
 ## 📫 Contato
 
-- 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)  
-- 💼 LinkedIn: [Hudson Henrique](https://www.linkedin.com/in/seu-perfil)  
+- 📧 Email: [hudson.henri10@gmail.com](mailto:hudson.henri10@gmail.com)  
+- 💼 LinkedIn: [Hudson Henrique](https://www.linkedin.com/in/hudsonhenri)  
 
 ---
 
