@@ -18,7 +18,7 @@ Tenho experiência com desenvolvimento de **front-end** e **back-end**, e estou 
 ## 🛠️ Tecnologias que eu utilizo
 
 - **Frontend**: React, Next.js, JavaScript, TypeScript, HTML5, CSS3  
-- **Backend**: Node.js  
+- **Backend**: Node.js, PHP
 - **Mobile**: Flutter  
 - **Cloud**: AWS (Amazon Web Services), AWS Lambda, AWS S3  
 - **Banco de Dados**: MongoDB, MySQL  
