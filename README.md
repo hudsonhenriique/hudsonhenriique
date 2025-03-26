@@ -1,7 +1,7 @@
 # 👨‍💻 Hudson Henrique
 
 🚀 **Desenvolvedor Full Stack** | Estudante de **Tecnologias** | **AWS Cloud Practitioner**  
-💻 Focado em **TypeScript**, **Node.js**, **React**, **Flutter** e **Next.js**.  
+💻 Focado em **TypeScript**, **Node.js**, **React** e **Next.js**.  
 🌱 Em constante evolução e aprendendo novas tecnologias e práticas de **Cloud Computing** e **DevOps**.  
 🔧 Desenvolvedor apaixonado por resolver problemas e otimizar soluções com **JavaScript** e **Python**.  
 
@@ -36,8 +36,8 @@ Projeto de uma página web inspirada no Mercado Pago. Desenvolvido com **HTML**,
 ### [Jogo da Velha](https://github.com/hudsonhenriique/jogoDaVelha)
 Jogo da Velha clássico, desenvolvido com **JavaScript**. Permite jogar localmente com dois jogadores.
 
-### [Básico de Flutter](https://github.com/hudsonhenriique/Basico-de-Flutter)
-Projeto básico desenvolvido com **Flutter** para aprender os conceitos fundamentais do framework.
+### [Projeto Full Stack](https://github.com/hudsonhenriique/Projeto_full_stack)
+Projeto **full stack** desenvolvido com  **HTML**, **CSS**, **JavaScript**, **PHP** e **MySQL**. Uma aplicação simples e funcional desenvolvida para gerenciar agendamentos de serviços para pets.
 
 ### [Aprendendo Autenticação com Next.js](https://github.com/hudsonhenriique/Aprendendo-autenticacao-com-Nextjs)
 Projeto de autenticação utilizando **Next.js** e **NextAuth.js**, com foco em aprender sobre autenticação e proteção de rotas.
