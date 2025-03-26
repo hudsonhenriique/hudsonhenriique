@@ -9,7 +9,7 @@
 
 ## 📚 Sobre Mim
 
-Olá, sou o Hudson Henrique! Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. Atualmente, estou me aprofundando em **TypeScript**, **React**, **Node.js** e **Flutter**, além de estudar a integração de tecnologias de nuvem, como **AWS**.
+Olá, sou o Hudson Henrique! Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. Atualmente, estou me aprofundando em **TypeScript**, **React** e **Node.js**, além de estudar a integração de tecnologias de nuvem, como **AWS**.
 
 Tenho experiência com desenvolvimento de **front-end** e **back-end**, e estou sempre buscando desafios para aprimorar minhas habilidades. Sou certificado como **AWS Cloud Practitioner** e estou sempre em busca de novas oportunidades para aplicar meus conhecimentos em projetos reais.
 
@@ -18,11 +18,11 @@ Tenho experiência com desenvolvimento de **front-end** e **back-end**, e estou 
 ## 🛠️ Tecnologias que eu utilizo
 
 - **Frontend**: React, Next.js, JavaScript, TypeScript, HTML5, CSS3  
-- **Backend**: Node.js, Express  
+- **Backend**: Node.js  
 - **Mobile**: Flutter  
 - **Cloud**: AWS (Amazon Web Services), AWS Lambda, AWS S3  
-- **Banco de Dados**: MongoDB, MySQL, Firebase  
-- **Outros**: Git, GitHub, Docker, CI/CD
+- **Banco de Dados**: MongoDB, MySQL  
+- **Outros**: Git, GitHub, 
 
 ---
 
