@@ -1,55 +1,54 @@
 # 👨‍💻 Hudson Henrique
 
-🚀 **Desenvolvedor Full Stack** | Estudante de **Tecnologias** | **AWS Cloud Practitioner**  
-💻 Focado em **TypeScript**, **Node.js**, **React** e **Next.js**.  
-🌱 Em constante evolução e aprendendo novas tecnologias e práticas de **Cloud Computing** e **DevOps**.  
-🔧 Desenvolvedor apaixonado por resolver problemas e otimizar soluções com **JavaScript** e **Python**.  
+🚀 **Full Stack Developer** | **Technology** Student | **AWS Cloud Practitioner**
+💻 Focused on **TypeScript**, **Node.js**, **React**, and **Next.js**.
+🌱 Constantly evolving and learning new technologies and practices in **Cloud Computing** and **DevOps**.
+🔧 Passionate developer who loves solving problems and optimizing solutions using **JavaScript** and **Python**.
+---
+
+## 📚 About Me
+
+Hello, I'm Hudson Henrique! I'm a developer passionate about technology and continuous learning. Currently, I'm deepening my knowledge in **TypeScript**, **React**, and **Node.js**, while also studying cloud technologies such as **AWS**.
+
+I have experience in both **frontend** and **backend** development, and I'm always looking for challenges to improve my skills. I'm certified as an **AWS Cloud Practitioner** and constantly seeking opportunities to apply my knowledge in real projects.
 
 ---
 
-## 📚 Sobre Mim
-
-Olá, sou o Hudson Henrique! Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. Atualmente, estou me aprofundando em **TypeScript**, **React** e **Node.js**, além de estudar a integração de tecnologias de nuvem, como **AWS**.
-
-Tenho experiência com desenvolvimento de **front-end** e **back-end**, e estou sempre buscando desafios para aprimorar minhas habilidades. Sou certificado como **AWS Cloud Practitioner** e estou sempre em busca de novas oportunidades para aplicar meus conhecimentos em projetos reais.
-
----
-
-## 🛠️ Tecnologias que eu utilizo
+## 🛠️ Technologies I Use
 
 - **Frontend**: React, Next.js, JavaScript, TypeScript, HTML5, CSS3  
 - **Backend**: Node.js, PHP
 - **Mobile**: Flutter  
 - **Cloud**: AWS (Amazon Web Services), AWS Lambda, AWS S3  
-- **Banco de Dados**: MySQL  
-- **Outros**: Git, GitHub, 
+- **Database**: MySQL 
+- **Others**: Git, GitHub
+  
+---
+
+## 📈 Projects
+
+Here are some of the projects I am working on:
+
+### [Mercado Pago Page](https://github.com/hudsonhenriique/Pagina_Mercado_Pago)
+A web page project inspired by Mercado Pago. Developed using **HTML**, **CSS**, and **JavaScript**.
+
+### [Tic-Tac-Toe Game](https://github.com/hudsonhenriique/jogoDaVelha)
+A classic Tic-Tac-Toe game developed with **JavaScript**. Allows local play for two players.
+
+### [Full Stack Project](https://github.com/hudsonhenriique/Projeto_full_stack)
+A full stack project developed with **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**. A simple and functional application designed to manage pet service appointments.
+
+### [Learning Authentication with Next.js](https://github.com/hudsonhenriique/Aprendendo-autenticacao-com-Nextjs)
+An authentication project using **Next.js** and **NextAuth.js**, focused on learning authentication and route protection.
 
 ---
 
-## 📈 Projetos
-
-Aqui estão alguns dos meus projetos em que estou trabalhando:
-
-### [Página Mercado Pago](https://github.com/hudsonhenriique/Pagina_Mercado_Pago)
-Projeto de uma página web inspirada no Mercado Pago. Desenvolvido com **HTML**, **CSS** e **JavaScript**.
-
-### [Jogo da Velha](https://github.com/hudsonhenriique/jogoDaVelha)
-Jogo da Velha clássico, desenvolvido com **JavaScript**. Permite jogar localmente com dois jogadores.
-
-### [Projeto Full Stack](https://github.com/hudsonhenriique/Projeto_full_stack)
-Projeto **full stack** desenvolvido com  **HTML**, **CSS**, **JavaScript**, **PHP** e **MySQL**. Uma aplicação simples e funcional desenvolvida para gerenciar agendamentos de serviços para pets.
-
-### [Aprendendo Autenticação com Next.js](https://github.com/hudsonhenriique/Aprendendo-autenticacao-com-Nextjs)
-Projeto de autenticação utilizando **Next.js** e **NextAuth.js**, com foco em aprender sobre autenticação e proteção de rotas.
-
----
-
-## 📫 Contato
+## 📫 Contact
 
 - 📧 Email: [hudson.henri10@gmail.com](mailto:hudson.henri10@gmail.com)  
 - 💼 LinkedIn: [Hudson Henrique](https://www.linkedin.com/in/hudsonhenri)  
 
 ---
 
-🔧 **Vamos desenvolver juntos!** Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato ou contribuir com os meus projetos!
+🔧 **Let's develop together**! If you have any questions or suggestions, feel free to reach out or contribute to my projects!
 
